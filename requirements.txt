@@ -1,2 +1,4 @@
 
 PyPDF2
+pywin32
+xlwings
