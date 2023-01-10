@@ -1,4 +1,2 @@
+jupyterlab
 
-blpapi
-xlwings
-scikit-learn
